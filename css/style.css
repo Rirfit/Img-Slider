@@ -90,7 +90,7 @@ body::before{
     z-index: 1;
 }
 .banner .content h1{
-    font-family: 'ICA Rubrik';
+    font-family: 'Poppins', sans-serif;
     font-size: 16em;
     line-height: 1em;
     color: #25283B;
